@@ -3,7 +3,7 @@ variable "instance_name" {
 }
 
 variable "key_name" {
-  default = "terraform-hotstar-key"                  # Names of key in aws
+  default = "aws-key"                  # Names of key in aws
 }
 
 
